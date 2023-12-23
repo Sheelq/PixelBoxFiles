@@ -6,7 +6,7 @@
 		"downloadable": false,
 		"copyright": "Wallpaper feito para o aplicativo WallBox",
 	        "size": "2-e"
-	        "dimensions": "#azul #claro"
+	        "dimensions": "#azul#claro"
 	},
 	{
 		"name": "Avião - escuro",
@@ -16,6 +16,6 @@
 		"downloadable": false,
 		"copyright": "Wallpaper feito para o aplicativo WallBox",
 		"size": "1-e"
-		"dimensions": "#azul #escuro"
+		"dimensions": "#azul#escuro"
 	}
 ]

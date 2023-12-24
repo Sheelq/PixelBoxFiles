@@ -1,17 +1,19 @@
 [{
-		"name": "Avião - claro",
-		"author": "WallBox",
-		"url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/2-e.jpg",
-		"collections": "Exclusivo,Claro,Fotografias",
-		"downloadable": false,
-		"copyright": "Wallpaper feito para o aplicativo WallBox",
+		"name": "avião 1",
+	        "author": "WallBox",
+	        "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/1-e.png",
+	        "collections": "Exclusivo,Claro,Fotografias",
+	        "downloadable": "false",
+	        "copyright": "Wallpaper feito para o aplicativo WallBox",
+	        "size": "#aviao #color"
 	},
 	{
-		"name": "Avião - escuro",
-		"author": "WallBox",
-		"url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/1-e.png",
-		"collections": "Exclusivo,Escuro,Fotografias",
-		"downloadable": false,
-		"copyright": "Wallpaper feito para o aplicativo WallBox",
+                "name": "avião 1",
+	        "author": "WallBox",
+	        "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/1-e.png",
+	        "collections": "Exclusivo,Claro,Fotografias",
+	        "downloadable": "false",
+	        "copyright": "Wallpaper feito para o aplicativo WallBox",
+	        "size": "#aviao #color"
 	}
 ]

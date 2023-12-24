@@ -6,7 +6,7 @@
     "copyright": "h",
     "collections": "h",
     "downloadable": "false",
-    "size": "#color #h #1",
+    "size": "#color, #h, #1",
     "dimensions": "1-e"
   },
   {
@@ -16,7 +16,7 @@
     "copyright": "h",
     "collections": "h",
     "downloadable": "false",
-    "size": "#color #h #2",
+    "size": "#color, #h, #2",
     "dimensions": "2-e"
   },
   {
@@ -26,7 +26,7 @@
     "copyright": "h",
     "collections": "h",
     "downloadable": "false",
-    "size": "#color #h #3",
+    "size": "#color, #h, #3",
     "dimensions": "3-e"
     
   }

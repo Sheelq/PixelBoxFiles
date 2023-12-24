@@ -1,14 +1,33 @@
 [
   {
     "name": "First Wallpaper",
-    "url": "https://www.example.com/first-wallpaper.png"
+    "url": "https://www.example.com/first-wallpaper.png",
+    "author": "h",
+    "copyright": "h",
+    "collections": "h",
+    "downloadable": "false",
+    "size": "#color #h #1",
+    "dimensions": "1-e"
   },
   {
     "name": "Second Wallpaper",
-    "url": "https://www.example.com/second-wallpaper.png"
+    "url": "https://www.example.com/second-wallpaper.png",
+    "author": "h",
+    "copyright": "h",
+    "collections": "h",
+    "downloadable": "false",
+    "size": "#color #h #2",
+    "dimensions": "2-e"
   },
   {
     "name": "Third Wallpaper",
-    "url": "https://www.example.com/third-wallpaper.png"
+    "url": "https://www.example.com/third-wallpaper.png",
+    "author": "h",
+    "copyright": "h",
+    "collections": "h",
+    "downloadable": "false",
+    "size": "#color #h #3",
+    "dimensions": "3-e"
+    
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://www.example.com/first-wallpaper.png",
     "author": "h",
     "copyright": "h",
-    "collections": "h",
+    "collections": "h"
     "downloadable": "false"
   },
   {
@@ -21,8 +21,6 @@
     "author": "h",
     "copyright": "h",
     "collections": "h",
-    "downloadable": "false",
-    "size": "#color, #h, #3",
-    "dimensions": "3-e"
+    "downloadable": "false"
   }
 ]

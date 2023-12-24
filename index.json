@@ -5,9 +5,7 @@
     "author": "h",
     "copyright": "h",
     "collections": "h",
-    "downloadable": "false",
-    "size": "#color, #h, #1",
-    "dimensions": "1-e"
+    "downloadable": "false"
   },
   {
     "name": "Second Wallpaper",
@@ -15,9 +13,7 @@
     "author": "h",
     "copyright": "h",
     "collections": "h",
-    "downloadable": "false",
-    "size": "#color, #h, #2",
-    "dimensions": "2-e"
+    "downloadable": "false"
   },
   {
     "name": "Third Wallpaper",
@@ -28,6 +24,5 @@
     "downloadable": "false",
     "size": "#color, #h, #3",
     "dimensions": "3-e"
-    
   }
 ]

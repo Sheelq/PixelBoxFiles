@@ -1,10 +1,20 @@
 [
   {
-    "name": "First Wallpaper",
-    "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/4-e.jpg",
-    "author": "null",
-    "copyright": "null",
-    "collections": "null",
-    "downloadable": "false"
+    "name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+	{
+		"name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/4.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
   }
 ]

@@ -1,20 +1,10 @@
 [
   {
-    "name": "Webp Image",
-    "author": "unknown",
-    "url": "https://www.gstatic.com/webp/gallery/4.webp",
-    "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-    "dimensions": "#cor #b",
-    "copyright": "Unknown",
-    "collections": "landscapes"
-	},
-	{
-    "name": "Webp ge",
-    "author": "unknown",
-    "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/1-e.png",
-    "thumbnail": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/1-e.png",
-    "dimensions": "#preto #b",
-    "copyright": "Unknown",
-    "collections": "landscapes"
+    "name": "First Wallpaper",
+    "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/4-e.jpg",
+    "author": "null",
+    "copyright": "null",
+    "collections": "null",
+    "downloadable": "false"
   }
 ]

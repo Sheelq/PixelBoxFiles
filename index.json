@@ -4,7 +4,7 @@
     "author": "unknown",
     "url": "https://www.gstatic.com/webp/gallery/4.webp",
     "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-    "dimensions": "3200x2560",
+    "dimensions": "#cor #b",
     "copyright": "Unknown",
     "collections": "landscapes"
 	},
@@ -13,7 +13,7 @@
     "author": "unknown",
     "url": "https://www.gstatic.com/webp/gallery/4.webp",
     "thumbnail": "https://www.gstatic.com/webp/gallery/4.webp",
-    "dimensions": "3200x2560",
+    "dimensions": "#cor #b",
     "copyright": "Unknown",
     "collections": "landscapes"
   }

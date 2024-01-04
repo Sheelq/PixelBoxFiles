@@ -1,6 +1,15 @@
 [
   {
-    "name": "Céu, nuvens, pássaros, dia, claro, azul, exclusivo, ☀️, 🌞, 🌄, 🌅, 🌇, 🐦, 🦅, ☁️, 📌, 4-e",
+    "name": "Escuro, roxo, moderno, minimalista, comunidade, 🟣, ⚫, ⬛, 🟪, 5-p",
+    "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Moderno/5-p.png",
+    "dimensions": "5-p",
+    "author": "WallBox",
+    "copyright": "Exclusivo do app WallBox",
+    "collections": "Escuro,Fotografia,Exclusivo,Natureza",
+    "downloadable": "false"
+  },
+  {
+    "name": "Céu, nuvens, pássaros, dia, claro, azul, exclusivo, ☀️, 🌞, 🌄, 🌅, 🌇, 🐦, 🦅, ☁️, 📌, 🟦, 🔵, ⚪, ◻️, ⬜, 4-e",
     "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/4-e.jpg",
     "dimensions": "4-e",
     "author": "WallBox",
@@ -18,21 +27,21 @@
     "downloadable": "false"
   },
   {
+    "name": "avião, dia, céu, nuvens, claro, azul, fotografia, exclusivo, ☀️, ⛅, 🌄, 🌅, ☁️, ✈️, 🛩️, 🛫, 🛬, 📌, 🟦, 🔵, ⚪, ◻️, ⬜, 2-e",
+    "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/2-e.jpg",
+    "dimensions": "2-e",
+    "author": "WallBox",
+    "copyright": "Exclusivo do app WallBox",
+    "collections": "Claro,Fotografia,Exclusivo",
+    "downloadable": "false"
+  },
+  {
     "name": "avião, noite, céu, nuvens, escuro, estrelas, azul escuro, fotografia, exclusivo, ⭐, 🛩️, ✈️, 🛫, 🛬, 🌟, ✨, 🌃, 🌌, 🌠, ☁️, 🌕, 🌔, 🌑, 🌛, 🌜, 📌, 1-e",
     "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/1-e.png",
     "dimensions": "1-e",
     "author": "WallBox",
     "copyright": "Exclusivo do app WallBox",
     "collections": "Escuro,Fotografia,Exclusivo",
-    "downloadable": "false"
-  },
-  {
-    "name": "avião, dia, céu, nuvens, claro, azul, fotografia, exclusivo, ☀️, ⛅, 🌄, 🌅, ☁️, ✈️, 🛩️, 🛫, 🛬, 📌, 2-e",
-    "url": "https://raw.githubusercontent.com/Sheelq/WallpapersBox/main/wallpapers/Exclusivos/2-e.jpg",
-    "dimensions": "2-e",
-    "author": "WallBox",
-    "copyright": "Exclusivo do app WallBox",
-    "collections": "Claro,Fotografia,Exclusivo",
     "downloadable": "false"
   }
 ]

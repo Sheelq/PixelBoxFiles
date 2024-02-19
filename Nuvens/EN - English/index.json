@@ -1,5 +1,15 @@
 [
   {
+    "name": "Dark, Light, Sky, Yellow, Sand, Astronaut, Galaxy, Mountains, Planets, AI, Artificial Intelligence, Exclusive, 27-e, #081830, #506888, #403038, #60A8C0, #C0D0C8, #1070A0, 🌎, 🌏, 🌍, 🪐, 📌",
+    "url": "https://raw.githubusercontent.com/Sheelq/PixelBoxFiles/main/wallpapers/Exclusivos/27-e.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Sheelq/PixelBoxFiles/main/Thumbnails/Wallpapers/Exclusivos/t27-e.jpg",
+    "dimensions": "27-e",
+    "author": "PixelBox and generative AI",
+    "copyright": "Exclusive from the PixelBox app",
+    "collections": "Exclusive,AI,Dark,Landscape",
+    "downloadable": "false"
+  },
+  {
     "name": "Light, Photography, Nature, Tree, Sky, Plants, Green, Blue, Exclusive, 26-e, 📌",
     "url": "https://raw.githubusercontent.com/Sheelq/PixelBoxFiles/main/wallpapers/Exclusivos/26-e.jpg",
     "thumbnail": "https://raw.githubusercontent.com/Sheelq/PixelBoxFiles/main/Thumbnails/Wallpapers/Exclusivos/t26-e.jpg",
@@ -46,7 +56,7 @@
     "dimensions": "23-e",
     "author": "PixelBox and generative AI",
     "copyright": "Exclusive from the PixelBox app",
-    "collections": "Exclusive,AI,Landscape,Nature",
+    "collections": "Exclusive,AI,Light,Landscape,Nature",
     "downloadable": "false"
   },
   {

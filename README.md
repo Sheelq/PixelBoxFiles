@@ -11,6 +11,6 @@ Although the PixelBox app wallpapers are here, please do not take advantage of t
 
 ## PixelBox App
 You can join our Telegram community to download the app and stay up to date with the latest news!
-- t.me/PixelBoxClub
+- [t.me/PixelBoxClub](https://t.me/PixelBoxClub)
 
 Thanks for reading. ❤️
